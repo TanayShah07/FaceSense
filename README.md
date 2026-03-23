@@ -120,8 +120,7 @@ Attendance Logging
 
 ## 👨‍💻 Authors
 
-Tanay Shah
-Sonia
+Tanay Shah | Sonia Mascarenhas
 
 ---
 
